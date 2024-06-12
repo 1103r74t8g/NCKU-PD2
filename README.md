@@ -1,2 +1,2 @@
 # NCKU-PD2
-the code or project in the class
+the code and project in the class
